@@ -1,0 +1,8 @@
+E:\c#\TenPrograms\bin\Debug\TenPrograms.exe.config
+E:\c#\TenPrograms\bin\Debug\TenPrograms.exe
+E:\c#\TenPrograms\bin\Debug\TenPrograms.pdb
+E:\c#\TenPrograms\obj\Debug\TenPrograms.csproj.AssemblyReference.cache
+E:\c#\TenPrograms\obj\Debug\TenPrograms.csproj.SuggestedBindingRedirects.cache
+E:\c#\TenPrograms\obj\Debug\TenPrograms.csproj.CoreCompileInputs.cache
+E:\c#\TenPrograms\obj\Debug\TenPrograms.exe
+E:\c#\TenPrograms\obj\Debug\TenPrograms.pdb

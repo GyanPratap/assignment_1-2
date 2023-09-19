@@ -1,0 +1,8 @@
+E:\c#\CsharpPrograms\bin\Debug\CsharpPrograms.exe.config
+E:\c#\CsharpPrograms\bin\Debug\CsharpPrograms.exe
+E:\c#\CsharpPrograms\bin\Debug\CsharpPrograms.pdb
+E:\c#\CsharpPrograms\obj\Debug\CsharpPrograms.csproj.AssemblyReference.cache
+E:\c#\CsharpPrograms\obj\Debug\CsharpPrograms.csproj.SuggestedBindingRedirects.cache
+E:\c#\CsharpPrograms\obj\Debug\CsharpPrograms.csproj.CoreCompileInputs.cache
+E:\c#\CsharpPrograms\obj\Debug\CsharpPrograms.exe
+E:\c#\CsharpPrograms\obj\Debug\CsharpPrograms.pdb
