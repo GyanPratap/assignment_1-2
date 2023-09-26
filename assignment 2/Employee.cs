@@ -21,7 +21,7 @@ namespace CsharpPrograms
         /*static void Main(string[] args)
         {
             Employee obj1 = new Employee();
-            obj1.display("Akash singh",21,50000);
+            obj1.display("GYAN PRATAP SINGH",21,50110);
         }*/
     }
 }
