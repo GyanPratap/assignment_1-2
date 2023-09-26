@@ -40,7 +40,7 @@ namespace CsharpPrograms
         /*static void Main(string[] args)
         {
             BankAccount obj2 = new BankAccount();
-            obj2.read("Akash singh",123456789);
+            obj2.read("GYAN PRATAP SINGH",9999999999);
             obj2.deposit();
             obj2.withdrawel();
             obj2.display();
