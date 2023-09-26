@@ -11,7 +11,7 @@ namespace CsharpPrograms
         /*static void Main(string[] args)
         {
             Employee2 obj4 = new Employee2();
-            obj4.read("Akash singh", "akashsisodiya666@gmail.com", +918171078563);
+            obj4.read("GYAN PRATAP SINGH", "gyanpratap666@gmail.com", +916397076392);
             obj4.read(50000, 20000, 15000);
             obj4.display();
         }*/
